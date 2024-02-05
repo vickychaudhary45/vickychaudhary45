@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vicky !</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left">
-  <a href="https://twitter.com/vickypoonia020" target="blank">
+  <a href="https://twitter.com/vickypoonia020" target="_blank">
     <img src="https://img.shields.io/twitter/follow/vickypoonia020?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
   </a>
 </p>
