@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vicky !</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=vickypoonia020&label=Profile%20views&color=0e75b6&style=flat" alt="vickypoonia020" /></p> -->
-<!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickypoonia020" alt="vickypoonia020" /></a></p> -->
 <p align="left">
   <a href="https://twitter.com/vickypoonia020" target="blank">
     <img src="https://img.shields.io/twitter/follow/vickypoonia020?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
   </a>
 </p>
-<!-- - 🔭 I’m currently working on [JustBaked](https://justbaked.netlify.app/)
 
-- 🌱 I’m currently learning **DSA, graphql, ReactNative** --> - 👨‍💻 All of my projects are available at [https://portfolioo-websitee.netlify.app/](https://portfolioo-websitee.netlify.app/)
-<!-- - 💬 Ask me about **Nextjs, Reactjs, Nodejs, Redux !** --> - 📫 find me on web: @vickypoonia020
-<!-- - 📄 Know about my experiences [https://portfolioo-websitee.netlify.app/](https://portfolioo-websitee.netlify.app/) -->
+- 📫 find me on the web: @vickypoonia020
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="text-decoration: none;">
   <a href="https://twitter.com/vickypoonia020" target="blank" style="text-decoration: none;">
@@ -27,29 +22,46 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
 </p>
-<h2 align="left">🎓Tools and Technologies::</h2>
+
 <p align="left">
+
+
+
+
+
+<h2 align="left">🎓Tools and Technologies:</h2>
 <h5 align="left"><li>Languages and Backend Development:</li></h5>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-<span align="center" style="color: black;"><strong>postman</strong></span><br>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="37" />
-</a>
-</a>
+<table>
+	<tbody>
+		<tr>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <h5 align="left"><li>Frontend Development:</li></h5>
 <table>
 		<tbody>
@@ -100,39 +112,55 @@
 			</tr>
 		</tbody>
 	</table>
-<!-- 
-<h5 align="left"><li>Backend Development:</li></h5>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80" />
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80" />
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-<span align="center" style="color: black;"><strong>postman</strong></span><br>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="57" />
-</a> -->
+
 
 <h5 align="left"><li>Database and Devops:</li></h5>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80" />
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80" />
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80" />
-</a>
-<!-- <h5 align="left"><li>Devops:</li></h5> -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80" />
-</a>
+<table>
+	<tbody>
+		<tr>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block;">
+				  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="80" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
 <!-- <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
 </a>
@@ -151,20 +179,38 @@
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80" />
 </a> -->
 <h5 align="left"><li>Other:</li></h5>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 10px;">
-  <span align="center" style="color: black;"><strong>figma</strong></span><br>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 10px;">
-  <span align="center" style="color: black;"><strong>photoshop</strong></span><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-</a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-</a>
+<table>
+	<tbody>
+		<tr>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.figma.com/" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 10px;">
+				  <span align="center" style="color: black;"><strong>figma</strong></span><br>
+				  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 10px;">
+				  <span align="center" style="color: black;"><strong>photoshop</strong></span><br>
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://www.linux.org/" target="_blank" rel="noreferrer"style="display: inline-block; margin: 0; margin-right: 0;">
+				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+				</a>
+			</td>
+			<td align="center" style=" border: 1px solid grey;">
+				<a href="https://heroku.com" target="_blank" rel="noreferrer">
+				  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
 <!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
 </a>
