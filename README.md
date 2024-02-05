@@ -5,6 +5,12 @@
     <img src="https://img.shields.io/twitter/follow/vickypoonia020?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
   </a>
 </p>
+<p align="left">
+  <a href="https://twitter.com/vickypoonia020" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vickypoonia020?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
+  </a>
+</p>
+
 
 - 📫 find me on the web: @vickypoonia020
 <h3 align="left">Connect with me:</h3>
