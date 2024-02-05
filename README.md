@@ -13,14 +13,14 @@
 <!-- - 💬 Ask me about **Nextjs, Reactjs, Nodejs, Redux !** --> - 📫 find me on web: @vickypoonia020
 <!-- - 📄 Know about my experiences [https://portfolioo-websitee.netlify.app/](https://portfolioo-websitee.netlify.app/) -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vickypoonia020" target="blank">
+<p align="left" style="text-decoration: none;">
+  <a href="https://twitter.com/vickypoonia020" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/vickypoonia020" target="blank">
+  <a href="https://linkedin.com/in/vickypoonia020" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/vickypoonia020" target="blank">
+  <a href="https://instagram.com/vickypoonia020" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/vickypoonia020" target="blank">
