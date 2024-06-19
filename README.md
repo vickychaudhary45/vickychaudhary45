@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋,  I'm Vicky!</h1>
 <h3 align="center">A passionate full stack developer!!</h3>
 <p align="left">
-  <a href="https://twitter.com/vickypoonia020" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vickypoonia020?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
-    <img src="https://komarev.com/ghpvc/?username=vickypoonia020&label=Profile%20views&color=0e75b6&style=flat" alt="vickypoonia020" />
+  <a href="https://twitter.com/vickychaudharyj" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vickychaudharyj?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
+    <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickypoonia020" />
   </a>
 </p>
 
-- 📫 find me on the web: @vickypoonia020
+- 📫 find me on the web: @vickychaudhary4596
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="text-decoration: none;">
-  <a href="https://twitter.com/vickypoonia020" target="blank" style="text-decoration: none;">
+  <a href="https://twitter.com/vickychaudhary45" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/vickypoonia020" target="blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/vickychaudhary4596" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/vickypoonia020" target="blank" style="text-decoration: none;">
+  <a href="https://instagram.com/vickychaudhary4596" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/vickypoonia020" target="blank">
+  <a href="https://www.leetcode.com/vickychaudhary4596" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
 </p>
@@ -242,8 +242,8 @@
 
 
 <!-- stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickypoonia020&show_icons=true&locale=en&layout=compact" alt="vickypoonia020" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickychaudhary45&show_icons=true&locale=en&layout=compact" alt="vickychaudhary45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickypoonia020&show_icons=true&locale=en" alt="vickypoonia020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickypoonia45&" alt="vickypoonia45" /></p>
