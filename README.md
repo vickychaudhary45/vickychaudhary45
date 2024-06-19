@@ -246,4 +246,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickypoonia020&show_icons=true&locale=en" alt="vickypoonia020" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickypoonia020&" alt="vickypoonia020" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickypoonia45&" alt="vickypoonia45" /></p>
