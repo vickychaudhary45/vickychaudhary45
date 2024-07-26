@@ -4,6 +4,7 @@
   <a href="https://twitter.com/vickychaudharyj" target="_blank">
     <img src="https://img.shields.io/twitter/follow/vickychaudharyj?logo=twitter&style=for-the-badge" alt="vickypoonia020" />
     <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickypoonia020" />
+	  <img align="center" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   </a>
 </p>
 
