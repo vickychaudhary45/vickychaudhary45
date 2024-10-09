@@ -64,7 +64,7 @@
 		</tr>
 	</tbody>
 </table>
-<h5 align="left"><li>Frontend Development:</li></h5>
+<!-- <h5 align="left"><li>Frontend Development:</li></h5>
 <table>
 		<tbody>
 			<tr>
@@ -113,7 +113,7 @@
 					</td>
 			</tr>
 		</tbody>
-	</table>
+	</table> -->
 
 
 <h5 align="left"><li>Database and Devops:</li></h5>
