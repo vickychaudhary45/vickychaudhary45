@@ -211,7 +211,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" width="400" height="200" style="margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickychaudhary45&show_icons=true&locale=en&layout=compact" alt="vickychaudhary45" width="400" height="200" style="margin: 10px;" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vickychaudhary45&show_icons=true&locale=en&layout=compact" alt="vickychaudhary45" width="400" height="200" style="margin: 10px;" /> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&" alt="vickychaudhary45" width="400" height="200" style="margin: 10px;" />
 </div>
 
