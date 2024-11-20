@@ -31,7 +31,7 @@
 
 
 
-<h2 align="left">🎓Tools and Technologies:</h2>
+<!-- <h2 align="left">🎓Tools and Technologies:</h2>
 <h5 align="left"><li>Languages and Backend Development:</li></h5>
 <table>
 	<tbody>
@@ -56,15 +56,15 @@
 				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
 				</a>
 			</td>
-			<!-- <td align="center" style=" border: 1px solid grey;">
+			<td align="center" style=" border: 1px solid grey;">
 				<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
 				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
 				</a>
-			</td> -->
+			</td>
 		</tr>
 	</tbody>
 </table>
-<!-- <h5 align="left"><li>Frontend Development:</li></h5>
+<h5 align="left"><li>Frontend Development:</li></h5>
 <table>
 		<tbody>
 			<tr>
@@ -113,7 +113,7 @@
 					</td>
 			</tr>
 		</tbody>
-	</table> -->
+	</table>
 
 
 <h5 align="left"><li>Database and Devops:</li></h5>
@@ -140,11 +140,11 @@
 				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80" />
 				</a>
 			</td>
-			<!-- <td align="center" style=" border: 1px solid grey;">
+			<td align="center" style=" border: 1px solid grey;">
 				<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
 				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
 				</a>
-			</td> -->
+			</td>
 			<td align="center" style=" border: 1px solid grey;">
 				<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="border: 1px solid grey; padding: 5px; display: inline-block; margin: 0; margin-right: 0;">
 				  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80" />
@@ -192,7 +192,7 @@
 		</tr>
 	</tbody>
 </table>
-
+-->
 
 
 
