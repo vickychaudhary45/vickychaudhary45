@@ -4,12 +4,11 @@
   <a href="https://twitter.com/vickychaudharyj" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/twitter/follow/vickychaudharyj?logo=twitter&style=for-the-badge" alt="vickychaudhary45" />
     <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickychaudhary45" />
-<!-- 	  <img align="center" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" /> -->
   </a>
 </p>
 
 - 📫 find me on the web: @vickychaudhary4596
-<h3 align="left">Connect with me:</h3>
+
 <p align="left" style="text-decoration: none;">
   <a href="https://twitter.com/vickychaudhary45" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickypoonia020" height="30" width="40" />
@@ -24,6 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
 </p>
+
 
 <p align="left">
 
@@ -203,8 +203,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickychaudhary45&show_icons=true&locale=en&layout=compact" alt="vickychaudhary45" /></p> -->
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickychaudhary45&show_icons=true&locale=en&layout=compact" alt="vickychaudhary45" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&" alt="vickypoonia45" /></p> -->
 
