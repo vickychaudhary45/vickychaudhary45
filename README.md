@@ -201,7 +201,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&" alt="vickypoonia45" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&" alt="vickypoonia45" /></p>
 
 
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&locale=en" alt="vickychaudhary45" /></p>
