@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://twitter.com/vickychaudharyj" target="_blank" style="text-decoration: none;">
 <!--     <img src="https://img.shields.io/twitter/follow/vickychaudharyj?logo=twitter&style=for-the-badge" alt="vickychaudhary45" /> -->
-    <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickychaudhary45" />
+<!--     <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickychaudhary45" /> -->
   </a>
 </p>
 
