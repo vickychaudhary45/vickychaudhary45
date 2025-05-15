@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://twitter.com/vickychaudharyj" target="_blank" style="text-decoration: none;">
 <!--     <img src="https://img.shields.io/twitter/follow/vickychaudharyj?logo=twitter&style=for-the-badge" alt="vickychaudhary45" /> -->
-<!--     <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickychaudhary45" /> -->
+    <img src="https://komarev.com/ghpvc/?username=vickyj&label=Profile%20views&color=0e75b6&style=flat" alt="vickychaudhary45" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
   <a href="https://linkedin.com/in/vickychaudhary45" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/vickychaudhary4596" target="blank" style="text-decoration: none;">
+<!--   <a href="https://instagram.com/vickychaudhary4596" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vickypoonia020" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.leetcode.com/vickychaudhary4596" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickypoonia020" height="30" width="40" />
   </a>
