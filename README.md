@@ -202,7 +202,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&theme=radical&locale=en" alt="vickychaudhary45" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickychaudhary45&layout=compact&theme=radical&locale=en" alt="vickychaudhary45" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&theme=radical&locale=en" alt="vickychaudhary45" width="40%" />
 </p>
 
 <p align="center">
