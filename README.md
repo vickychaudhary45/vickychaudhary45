@@ -12,6 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vickychaudhary45&show_icons=true&theme=radical&locale=en" alt="vickychaudhary45" width="400px" />
 </p>
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&show_icons=true&theme=radical" alt="vickypoonia45" width="100%" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickychaudhary45&show_icons=true&theme=radical" alt="vickypoonia45" width="100%" />
 
 </div>
